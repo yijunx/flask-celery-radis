@@ -1,2 +1,2 @@
-# flask-celery-radis
+# flask-celery-redis
 just a try on celery
